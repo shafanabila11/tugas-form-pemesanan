@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUNDUL BREW COFFEE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f3e9;
+            margin: 0;
+            padding: 0;
+        }
+        .title {
+            text-align: center;
+            color: #6b4226; /* Warna cokelat tua */
+            font-family: 'Georgia', serif; /* Font serif untuk kesan elegan */
+            font-size: 48px; /* Ukuran font besar */
+            text-transform: uppercase; /* Mengubah teks menjadi huruf kapital */
+            letter-spacing: 2px; /* Jarak antar huruf */
+            margin-top: 50px; /* Jarak atas dari konten lainnya */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Memberikan efek bayangan */
+        }
+        /* Menambahkan gaya untuk subjudul atau tagline jika diperlukan */
+        .subtitle {
+            text-align: center;
+            color: #4b3832; /* Warna cokelat sedang */
+            font-size: 24px; /* Ukuran font lebih kecil untuk subjudul */
+            margin-top: 10px; /* Jarak atas dari judul */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="title">SUNDUL BREW COFFEE</h1>
+    <h2 class="subtitle">Kopi Penuh Energi, Nikmati Setiap Tegukan!</h2> <!-- Contoh subjudul -->
+</body>
+</html>
